@@ -6,6 +6,7 @@
 # `plan`) for both the web service and the database. You
 # can upgrade to paid instance types at any time to
 # increase resources.
+# Trigger redeploy for n8n latest update
 
 services:
   - type: web

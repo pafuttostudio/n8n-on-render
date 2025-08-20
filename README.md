@@ -1,5 +1,5 @@
 # Deploy n8n on Render
-
+# n8n-render-config-deprecated
 > [!IMPORTANT]
 > **View full deployment instructions in the [**Render docs**](https://render.com/docs/deploy-n8n).**
 

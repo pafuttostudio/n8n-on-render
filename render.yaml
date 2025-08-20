@@ -7,6 +7,8 @@
 # can upgrade to paid instance types at any time to
 # increase resources.
 # Trigger redeploy for n8n latest update
+# ⚠️ この設定ファイルは Render では現在使用されていません
+# 実際のサービスは Render ダッシュボード上で Docker イメージを直接指定しています
 
 services:
   - type: web
